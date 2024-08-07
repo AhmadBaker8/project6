@@ -16,6 +16,7 @@ body{
 }
 .navbar .container{
     display: flex;
+    align-items: center;
 }
 .logo{
     width: 30%;
@@ -33,7 +34,6 @@ body{
     gap: 20px;
     list-style: none;
     justify-content: end;
-    margin-top: 10px;
 }
 .list ul li a{
     text-decoration: none;
